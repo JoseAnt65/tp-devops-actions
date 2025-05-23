@@ -140,9 +140,6 @@ To make the application portable, reproducible, and ready for automated deployme
 
 Ansible TP Report
 
-Path to key: /Users/Jochy/Documents/Educación/EPF Engineering School/DevOps/Session 3
-Acces to Server: ssh -i "/Users/Jochy/Documents/Educación/EPF Engineering School/DevOps/Session 3 - Ansible/id_rsa" admin@joseantonio.silvestremejia.takima.cloud
-
 3-1 Document your inventory and base commands
 
 Inventory:
